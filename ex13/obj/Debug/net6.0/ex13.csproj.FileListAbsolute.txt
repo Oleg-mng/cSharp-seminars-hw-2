@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/bin/Debug/net6.0/ex13
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/bin/Debug/net6.0/ex13.deps.json
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/bin/Debug/net6.0/ex13.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/bin/Debug/net6.0/ex13.dll
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/bin/Debug/net6.0/ex13.pdb
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.dll
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/refint/ex13.dll
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.pdb
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ex13.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains/с#/c# hw02/ex13/obj/Debug/net6.0/ref/ex13.dll
